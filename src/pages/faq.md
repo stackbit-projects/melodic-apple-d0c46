@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-hide_title: false
+hide_title: true
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
