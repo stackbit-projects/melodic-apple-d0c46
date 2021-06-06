@@ -5,7 +5,6 @@ layout_style: mosaic
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Portfolio
   description: This is the portfolio page
   extra:
     - name: 'og:type'
