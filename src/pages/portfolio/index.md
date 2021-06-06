@@ -9,9 +9,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:description'
-      value: This is the portfolio page
-      keyName: property
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
