@@ -40,7 +40,7 @@ sections:
         template: form_field
         input_type: textarea
         name: message
-        label: Message
+        label: Questions?
         default_value: Your message
       - type: form_field
         template: form_field
